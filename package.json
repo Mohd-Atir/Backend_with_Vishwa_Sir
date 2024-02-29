@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend with vishwa sir",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mohd Atir",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.2.0"
+  }
+}
